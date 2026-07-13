@@ -1,0 +1,131 @@
+{
+  "projectName": "A AI Hub",
+  "theme": "royal",
+  "font": "outfit",
+  "sections": [
+    {
+      "id": "header_1783925620",
+      "type": "header",
+      "data": {
+        "logo": "A",
+        "link1": "Features",
+        "link2": "Gallery",
+        "link3": "Testimonials",
+        "link4": "Contact",
+        "ctaText": "Get Started"
+      },
+      "styleVariant": "split"
+    },
+    {
+      "id": "hero_1783925621",
+      "type": "hero",
+      "data": {
+        "title": "Next-generation analytics for modern product teams",
+        "subtitle": "Consolidate team tracking, log error streams, and monitor active sessions inside a sleek, customizable dashboard.",
+        "cta1": "Start Free Trial",
+        "cta2": "Learn More",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
+      },
+      "styleVariant": "card"
+    },
+    {
+      "id": "features_1783925622",
+      "type": "features",
+      "data": {
+        "title": "Core Features",
+        "subtitle": "Discover the values that define our quality standards.",
+        "cards": [
+          {
+            "icon": "\u26a1",
+            "title": "Peak Velocity",
+            "desc": "Deploy serverless instances and monitor queries instantly."
+          },
+          {
+            "icon": "\ud83d\udcca",
+            "title": "Real-time Metrics",
+            "desc": "Sleek charts plotting errors, active sessions, and database traffic."
+          },
+          {
+            "icon": "\ud83d\udd12",
+            "title": "Endless Scale",
+            "desc": "Multi-tenant clusters secure user records across global clouds."
+          }
+        ]
+      },
+      "styleVariant": "card"
+    },
+    {
+      "id": "gallery_1783925623",
+      "type": "gallery",
+      "data": {
+        "title": "Showcase Gallery",
+        "subtitle": "Take a visual glance at our premium productions.",
+        "items": [
+          {
+            "title": "Analytics Hub",
+            "desc": "Query metrics charts.",
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80"
+          },
+          {
+            "title": "Cluster Config",
+            "desc": "Server status logs.",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80"
+          },
+          {
+            "title": "User Dashboard",
+            "desc": "Account billing controls.",
+            "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=600&q=80"
+          }
+        ]
+      },
+      "styleVariant": "carousel"
+    },
+    {
+      "id": "testimonials_1783925624",
+      "type": "testimonials",
+      "data": {
+        "title": "Client Feedback",
+        "subtitle": "Read reviews directly from our client portfolio.",
+        "cards": [
+          {
+            "quote": "The development team at A was outstanding. They wrote robust, maintainable clusters and kept us secure.",
+            "name": "Sarah Jenkins",
+            "role": "CTO, CloudScale",
+            "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=120&q=80"
+          },
+          {
+            "quote": "Working with A transformed our conversions. We went from manual logs to full serverless databases.",
+            "name": "David Kim",
+            "role": "Director, FinTech.io",
+            "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+          }
+        ]
+      },
+      "styleVariant": "card"
+    },
+    {
+      "id": "contact_1783925625",
+      "type": "contact",
+      "data": {
+        "title": "Get in Touch",
+        "subtitle": "Send a message and our strategist will reach out.",
+        "email": "support@a.io",
+        "phone": "+1 (555) 120-4567",
+        "address": "88 Cloud Serverless Ln, Austin, TX"
+      },
+      "styleVariant": "card"
+    },
+    {
+      "id": "footer_1783925626",
+      "type": "footer",
+      "data": {
+        "copyright": "\u00a9 2026 A. Built with Aleyo Builder AI.",
+        "link1": "Privacy Policy",
+        "link2": "Terms of Service"
+      },
+      "styleVariant": "split"
+    }
+  ],
+  "industry": "saas",
+  "updatedAt": "2026-07-13T07:54:20.605068"
+}
